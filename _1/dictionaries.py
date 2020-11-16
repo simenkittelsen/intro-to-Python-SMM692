@@ -3,7 +3,7 @@
 
 """
 -----------------------------------------------------------------------------
-    dictionaries.py  |  Python objects
+    dictionaries.py  |  Python objects mine
 -----------------------------------------------------------------------------
 
 Auhor  : simone.santoni.1@city.ac.uk
